@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=FormulaDriver
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=a\ b\ c
+comment2.target=OrderedPair\ findQuadraticRoots(double,\ double,\ double)
+comment3.params=output1\ output2
+comment3.target=double\ findSlope(OrderedPair,\ OrderedPair)
+comment4.params=A\ B
+comment4.target=OrderedPair\ findMidpoint(OrderedPair,\ OrderedPair)
+comment5.params=A\ D\ K
+comment5.target=double\ findArithmetic(double,\ double,\ int)
+comment6.params=a\ r\ k
+comment6.target=double\ findGeometricSeriesSum(double,\ double,\ int)
+comment7.params=sides
+comment7.target=int\ rollDie(int)
+numComments=8

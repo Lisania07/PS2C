@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=OrderedPair
+comment1.params=
+comment1.target=OrderedPair()
+comment2.params=a\ b
+comment2.target=OrderedPair(double,\ double)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\ OrderedPair(double\ X,\ double\ Y){\n\ \ \ \ \ \ this.X\=X;\n\ \ \ \ \ \ \ \ this.Y\=Y;\n
+comment4.params=
+comment4.target=double\ getX()
+comment5.params=
+comment5.target=double\ getY()
+numComments=6
